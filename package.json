@@ -1,0 +1,25 @@
+{
+  "name": "jidbits",
+  "version": "1.0.0",
+  "description": "Javascript tid bits (jidbits).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuhinpaul/jidbits.git"
+  },
+  "keywords": [
+    "javascript",
+    "api",
+    "library",
+    "pagination"
+  ],
+  "author": "Tuhin Paul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuhinpaul/jidbits/issues"
+  },
+  "homepage": "https://github.com/tuhinpaul/jidbits#readme"
+}

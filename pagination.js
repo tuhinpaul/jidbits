@@ -1,5 +1,6 @@
 /**
  * @author Tuhin Paul
+ * CDN url (replace x.x.x with desired version): https://cdn.jsdelivr.net/npm/jidbits@x.x.x/pagination.js
  * 
  * Returns an array of pagination elements including the characters in ['«', »'].
  * 
